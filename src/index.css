@@ -1,0 +1,13 @@
+@import 'tailwindcss';
+html{
+  scroll-behavior: auto;
+}
+#taskList, #allTask {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.25) transparent;
+  scroll-behavior: smooth;
+}
+
+
+
+
